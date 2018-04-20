@@ -89,6 +89,7 @@ obj.saveInBackground(new DoneCallback() {
 });
 ```
 
+
 ## ライセンス
 
 本SDKのライセンスについては、LICENSEファイルをご覧ください。
